@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiangpin-legend
-- 👀 I’m interested in SLAM Self-Localization multi-robot localization 
-- 🌱 I’m currently study in zhejiang university as a master student
+- 👀 I’m interested in SLAM Self-Localization Multi-robot Localization 
+- 🌱 I’m currently study in Zhejiang University as a master student
 - 📫 How to reach me  jiangpin@zju.edu.cn
 
 <!---
